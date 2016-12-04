@@ -1,5 +1,5 @@
 # Open-Learning
-A distance learning course data set which contains student information of online learning
+A distance learning course data set which contains information about students' online learning
 
 
 ## Description
